@@ -1,10 +1,10 @@
 # 💼 My Digital Portfolio (2025)
 
 This repository showcases evidence and reflections aligned with my personal and professional development journey.
-
-Student Name & Surname: Madikila Agnes Mabusela
-Student Number: 230020690
-Stream: Applications Development
+---
+-Student Name & Surname: Madikila Agnes Mabusela
+-Student Number: 230020690
+-Stream: Applications Development
 ---
 
 ## 📌 Table of Contents
