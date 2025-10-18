@@ -73,7 +73,7 @@ This repository showcases evidence and reflections aligned with my personal and 
 
 ## Mock Interview
 
-- **Evidence:** [Watch video](./mock-interview/mock-interview.mov)  
+- **Evidence:** [See screenshot of video as it wouldn't let me upload it.](./mock-interview/mock-interview-screenshot)  
 - **Reflection (STAR):** [Read reflection](./mock-interview/reflection.md)
 
 

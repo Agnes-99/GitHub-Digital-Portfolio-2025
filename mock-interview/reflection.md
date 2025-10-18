@@ -25,4 +25,4 @@ I will continue practising mock interviews regularly, using feedback to improve 
 ---
 
 **Evidence:**  
-- [Mock Interview Video](./interview-skills/mock-interview.mov)  
+- [Mock Interview Screenshot](./interview-skills/mock-interview-screenshot.jpeg)  
