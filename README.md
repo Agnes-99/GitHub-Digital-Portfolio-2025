@@ -58,9 +58,9 @@ This repository showcases evidence and reflections aligned with my personal and 
 ## Business Communication
 
 - **Evidence:** [See file](./business-communication/business-communication/evidence.jpeg)  
-- [A Professional Email i wrote to a lecturer](./business-communication/business-communication/email-evidence.jpeg)
-- [A Professional message i sent to my team lead](./business-communication/business-communication/message-evidence.jpeg)
-- **Reflection (STAR):** [Read reflection](./business-communication/business/communication/reflection.md)
+- **Professional email I sent to a lecturer:** [See file](./business-communication/business-communication/email-evidence.jpeg)
+- **Professional message I sent to my Team Lead:** [See file](./business-communication/business-communication/message-evidence.jpeg)
+- **Reflection (STAR):** [Read reflection](./business-communication/business-communication/reflection.md)
 
 ---
 
@@ -85,9 +85,9 @@ This repository showcases evidence and reflections aligned with my personal and 
 - **Profile Link:** [Visit LinkedIn](https://www.linkedin.com/in/agnes-mabusela-29bb79288?trk=contact-info)  
 - **Reflection (STAR):** [Read reflection](./professional-networking/reflection.md)
 
-[Proof of Completion](./professional-networking/evidence.jpeg)
+- **Proof of Completion:**[See file](./professional-networking/evidence.jpeg)
 
-[Google Networking Event](./professional-networking/google-event.jpeg)
+- **Google Networking Event:** [See file](./professional-networking/google-event.jpeg)
 
 ---
 
