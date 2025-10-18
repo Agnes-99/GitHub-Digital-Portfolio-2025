@@ -24,6 +24,6 @@ After completing the module, I got **100%** and felt more confident in how I exp
  **Evidence:**  
 - [Course Completion Screenshot](./evidence.jpeg)  
 
--[Example of a professional email I wrote a lecturer](./email-evidence.jpeg)
+- [Example of a professional email I wrote a lecturer](./email-evidence.jpeg)
 
--[Example if a message i wrote to my supervisor during my WIL](./message-evidence.jpeg)
+- [Example if a message i wrote to my supervisor during my WIL](./message-evidence.jpeg)
