@@ -94,6 +94,7 @@ This repository showcases evidence and reflections aligned with my personal and 
 ## Workplace Etiquette
 
 - **Evidence:** [See file](./workplace-etiquette/evidence.png)  
+- **Reflection** [see file](./workplace-etiquette/reflection.md)
 
 ---
 
