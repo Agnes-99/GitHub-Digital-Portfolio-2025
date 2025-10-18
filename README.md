@@ -57,23 +57,23 @@ This repository showcases evidence and reflections aligned with my personal and 
 
 ## Business Communication
 
-- **Evidence:** [See file](./business-communication/evidence.jpeg)  
-[See file](./business-communication/email-evidence.jpeg)
-[See file](./business-communication/message-evidence.jpeg)
-- **Reflection (STAR):** [Read reflection](./business-communication/reflection.md)
+- **Evidence:** [See file](./business-communication/business-communication/evidence.jpeg)  
+[See file](./business-communication/business-communication/email-evidence.jpeg)
+[See file](./business-communication/business-communication/message-evidence.jpeg)
+- **Reflection (STAR):** [Read reflection](./business-communication/business/communication/reflection.md)
 
 ---
 
 ## Interview Skills
 
-- **Evidence:** [See file](./interview-skills/evidence.png)  
+- **Evidence:** [See file](./interview-skills/evidence.jpeg)  
 - **Reflection (STAR):** [Read reflection](./interview-skills/reflection.md)
 
 ---
 
 ## Mock Interview
 
-- **Evidence:** [See screenshot of video as it wouldn't let me upload it.](./mock-interview/mock-interview-screenshot)  
+- **Evidence:** [See screenshot of video as it wouldn't let me upload it.](./mock-interview/mock-interview-screenshot.jpeg)  
 - **Reflection (STAR):** [Read reflection](./mock-interview/reflection.md)
 
 
