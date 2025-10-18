@@ -58,8 +58,8 @@ This repository showcases evidence and reflections aligned with my personal and 
 ## Business Communication
 
 - **Evidence:** [See file](./business-communication/business-communication/evidence.jpeg)  
-[See file](./business-communication/business-communication/email-evidence.jpeg)
-[See file](./business-communication/business-communication/message-evidence.jpeg)
+- [A Professional Email i wrote to a lecturer](./business-communication/business-communication/email-evidence.jpeg)
+- [A Professional message i sent to my team lead](./business-communication/business-communication/message-evidence.jpeg)
 - **Reflection (STAR):** [Read reflection](./business-communication/business/communication/reflection.md)
 
 ---
